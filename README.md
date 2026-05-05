@@ -6,10 +6,10 @@ An interactive Insurance Dashboard built using Microsoft Power BI to analyze pol
 ---
 
 ## Tech Stack
-- Microsoft Power BI – Dashboard & visualization  
-- Microsoft Excel – Data preprocessing  
+- Microsoft Power BI – Dashboard & visualization   
 - DAX – Measures & calculations  
-- Power Query – Data transformation  
+- Power Query – Data cleaning and transformation
+- CSV -- Data Source
 
 ---
 
