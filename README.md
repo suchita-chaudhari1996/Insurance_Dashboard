@@ -57,7 +57,7 @@ Enables tracking of claim patterns vs premium collection
 Improves understanding of customer demographics
 Supports strategic planning and risk management
 
-
+5.Screenshot
 
 
 Supports strategic planning and risk management
