@@ -57,13 +57,8 @@ Enables tracking of claim patterns vs premium collection
 Improves understanding of customer demographics
 Supports strategic planning and risk management
 
-5.Screenshot
 
 
 
-
-
-
-Improves understanding of customer demographics
 Supports strategic planning and risk management
 Provides a quick snapshot of overall business health
