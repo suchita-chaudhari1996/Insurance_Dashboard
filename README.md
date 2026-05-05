@@ -1,64 +1,61 @@
-1.Project Title--
-Insurance Analytics Dashboard (Power BI)
+# Insurance Analytics Dashboard (Power BI)
 
-2.Purpose--
-An interactive Insurance Dashboard built using Microsoft Power BI to analyze policy performance, customer demographics, and financial metrics such as premiums and claims.The goal of this project is to provide data-driven insights that help insurance businesses monitor performance, identify trends, and make informed decisions.
+## Purpose
+An interactive Insurance Dashboard built using Microsoft Power BI to analyze policy performance, customer demographics, and financial metrics like premiums and claims.
 
-3.Tech Stack--
--Microsoft Power BI – Dashboard creation & visualization
--Microsoft Excel – Data preprocessing
--DAX (Data Analysis Expressions) – Measures & calculations
--Power Query – Data transformation
+---
 
-4.Features & Highlights--
-A.Business Problem
--Insurance companies manage large volumes of policy and customer data, making it difficult to:
--Track overall business performance
--Monitor claims vs premium trends
--Understand customer segmentation
-=Identify high-performing policy types
--This creates challenges in decision-making and performance optimization.
+## Tech Stack
+- Microsoft Power BI – Dashboard & visualization  
+- Microsoft Excel – Data preprocessing  
+- DAX – Measures & calculations  
+- Power Query – Data transformation  
 
-B.Goal of the Dashboard
--Provide a centralized view of key insurance metrics
--Enable quick performance monitoring (policies, claims, premiums)
--Help stakeholders analyze customer and policy trends
--Support data-driven decision-making
+---
 
-C.Walkthrough of Key Visuals
-#KPI Cards (Top Section)
--Displays high-level metrics like total policies, customers, coverage amount, premium collected, and claims paid
+##  Features & Highlights  
 
-#Active vs Inactive Policies (Pie Chart)
--Helps understand policy engagement and retention
+# Business Problem
+Insurance companies manage large amounts of data, making it difficult to:
+- Track overall performance  
+- Monitor claims vs premium  
+- Understand customer segments  
+- Identify best policy types  
 
-#Policies by Gender (Donut Chart)
--Shows customer distribution across gender segments
+---
 
-#Monthly Premium vs Claim Trend (Line Chart)
--Tracks financial performance and identifies trends or anomalies over time
+# Goal of the Dashboard
+- Show all important data in one place  
+- Help in quick decision-making  
+- Make data easy to understand  
 
-#Customers by Age Group (Bar Chart)
--Highlights customer demographics for targeted strategies
+---
 
-#Premium by Policy Type (Bar Chart)
--Identifies which policy categories generate the most revenue
+# Key Visuals
+- KPI Cards → Total policies, customers, premium, claims  
+- Pie Chart → Active vs Inactive policies  
+- Donut Chart → Gender distribution  
+- Line Chart → Monthly premium vs claims  
+- Bar Chart → Age group analysis  
+- Bar Chart → Policy type performance  
 
-#Filters Panel (Left Side)
--Enables dynamic filtering by:
--Policy Start Date
--Age Group
--Policy Type
--Gender
+---
 
-D.Business Impact & Insights--
--Helps identify high-revenue policy types
--Enables tracking of claim patterns vs premium collection
--Improves understanding of customer demographics
--Supports strategic planning and risk management
+# Business Impact
+- Identify high-performing policies  
+- Track profit vs claims  
+- Understand customer behavior  
+- Improve business decisions  
 
-5.Screenshot--
-https://github.com/suchita-chaudhari1996/Insurance_Dashboard/blob/main/Insurance_Dashboard1.png
+---
 
-Supports strategic planning and risk management
-Provides a quick snapshot of overall business health
+# Screenshot
+
+
+
+
+
+
+
+
+[![Dashboard Screenshot](https://raw.githubusercontent.com/suchita-chaudhari1996/Insurance_Dashboard/main/Insurance_Dashboard1.png)](https://github.com/suchita-chaudhari1996/Insurance_Dashboard/blob/main/Insurance_Dashboard1.png)
