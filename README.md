@@ -50,6 +50,7 @@ Insurance companies manage large amounts of data, making it difficult to:
 ---
 
 # Screenshot
+https://github.com/suchita-chaudhari1996/Insurance_Dashboard/blob/main/Insurance_Dashboard1.png
 
 
 
