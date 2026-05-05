@@ -58,7 +58,7 @@ Improves understanding of customer demographics
 Supports strategic planning and risk management
 
 5.Screenshot
-[Dashboard Preview].https://github.com/suchita-chaudhari1996/Insurance_Dashboard/blob/main/Insurance_Dashboard1.png
+https://github.com/suchita-chaudhari1996/Insurance_Dashboard/blob/main/Insurance_Dashboard1.png
 
 Supports strategic planning and risk management
 Provides a quick snapshot of overall business health
